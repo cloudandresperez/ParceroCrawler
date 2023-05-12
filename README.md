@@ -1,0 +1,2 @@
+# ParceroCrawler
+Este es un simple crawler, filtra algunos resultados. Es un prototipo de prueba que utiliza scrapy con python 3.11
